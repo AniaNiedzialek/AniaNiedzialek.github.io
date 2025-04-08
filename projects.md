@@ -8,7 +8,7 @@ permalink: /projects/
 An AI-powered desktop app that uses motion capture and computer vision to evaluate dance moves in real-time.  
 **Tech stack:** Java, OpenCV, YOLOv7, JavaFX  
 **Highlights:** Real-time feedback, motion analysis, educational tool for dance learners.  
-🔗 [GitHub](https://github.com/AniaNiedzialek/ai-dance-instructor) | [Live Demo](#)
+🔗 [GitHub](https://github.com/AniaNiedzialek/motion_ai) | [Live Demo](#)
 
 ---
 
@@ -16,7 +16,7 @@ An AI-powered desktop app that uses motion capture and computer vision to evalua
 A JavaFX game with a human player, two bots, a dealer, betting logic, and score-saving.  
 **Tech stack:** Java, JavaFX  
 **Highlights:** Turn-based gameplay, visual UI, persistent data handling.  
-🔗 [GitHub](https://github.com/AniaNiedzialek/blackjack-game-manager) | [Live Demo](#)
+🔗 [GitHub](https://github.com/AniaNiedzialek/BlackJack_Project2_CS151) | [Live Demo](#)
 
 ---
 
@@ -24,7 +24,7 @@ A JavaFX game with a human player, two bots, a dealer, betting logic, and score-
 An implementation of the RSA encryption/decryption algorithm for secure message transfer.  
 **Tech stack:** Java  
 **Highlights:** Key generation, modular exponentiation, encryption/decryption from scratch.  
-🔗 [GitHub](https://github.com/AniaNiedzialek/simple-rsa-algorithm) | [Live Demo](#)
+🔗 [GitHub](https://github.com/AniaNiedzialek/Simple-RSA-Algoritm) | [Live Demo](#)
 
 ---
 
@@ -32,4 +32,4 @@ An implementation of the RSA encryption/decryption algorithm for secure message 
 A full-featured system to manage theaters, showtimes, food & drink purchases, and transactions.  
 **Tech stack:** Java  
 **Highlights:** OOP-based system with data validation, limited theater count, and structured class logic.  
-🔗 [GitHub](https://github.com/AniaNiedzialek/cinema-management-system) | [Live Demo](#)
+🔗 [GitHub](https://github.com/AniaNiedzialek/2024-CS151-07-Cinema_Mangement_System) | [Live Demo](#)
