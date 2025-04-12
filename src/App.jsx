@@ -10,13 +10,25 @@
 // export default App;
 import Hero from "./components/Hero";
 import About from "./components/About";
+import Projects from "./components/Projects";
+import Contact from "./components/Contact";
+import Footer from "./components/Footer";
+import Skills from "./components/Skills";
+
 
 function App() {
   return (
     <>
       <Hero />
-      <p>This is my website testing.</p>
+      {/* <p>This is my website testing.</p> */}
       <About  />
+      <Projects  />
+      <Skills />
+      <Contact  />
+      
+      <p> </p>   
+      <Footer /> 
+
     </>
   )
 }
