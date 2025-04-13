@@ -18,7 +18,7 @@ import Skills from "./components/Skills";
 
 function App() {
   return (
-    <>
+    <div className ="overflow-x-hidden">
       <Hero />
       {/* <p>This is my website testing.</p> */}
       <About  />
@@ -29,7 +29,7 @@ function App() {
       <p> </p>   
       <Footer /> 
 
-    </>
+    </div>
   )
 }
 
